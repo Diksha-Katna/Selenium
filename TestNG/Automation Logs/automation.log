@@ -1,0 +1,10 @@
+2026-05-11 08:38:13 INFO  TC_001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-05-11 08:38:13 INFO  TC_001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2026-05-11 08:38:17 INFO  TC_001_AccountRegistrationTest:62 - ***** Finished TC001_AccountRegistrationTest *****
+2026-05-11 08:42:26 INFO  TC_001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-05-11 08:42:27 INFO  TC_001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2026-05-11 08:42:38 ERROR TC_001_AccountRegistrationTest:39 - Test failed
+2026-05-11 08:42:38 INFO  TC_001_AccountRegistrationTest:54 - ***** Finished TC001_AccountRegistrationTest *****
+2026-05-11 08:43:28 INFO  TC_001_AccountRegistrationTest:16 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-05-11 08:43:28 INFO  TC_001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2026-05-11 08:43:30 INFO  TC_001_AccountRegistrationTest:43 - ***** Finished TC001_AccountRegistrationTest *****
